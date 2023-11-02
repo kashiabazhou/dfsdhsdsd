@@ -1,6 +1,0 @@
-sui交互；
-1，域名https://suins.io/
-2，去中心化交易所；①https://suiswap.app/app/
-②https://dex.bluemove.net/swap
-3，NFT：sui的nft 继续；https://suitestnet.souffl3.com/?utm_medium=twitter&utm_campaign=mobius-testmint-0403
-4，领盒子：https://mobius.market/amm/airdrop/s2?referer=5678923
